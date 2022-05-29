@@ -4,4 +4,4 @@
 
 ### Control Flow graph
 
-[!diagram](graph.png)
+![diagram](graph.png)
